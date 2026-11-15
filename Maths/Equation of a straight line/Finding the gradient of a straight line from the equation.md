@@ -1,0 +1,3 @@
+
+---
+- **Subject map:** [[Maths|Maths]]

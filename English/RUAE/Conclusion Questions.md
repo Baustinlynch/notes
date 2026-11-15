@@ -1,0 +1,3 @@
+#### Example:
+1. How appropriate do you find the last paragraph as a conclusion to the article?
+   "I'll let the train take the strain." When the writer says this, it represents them excepting that regional air travel in the UK is almost a lost cause, the only rest-bite from the chaos and unpleasantness that is found on chav-air is rail travel. This is a point that the writer has already made, where he says that these days, the only way to travel in comfort is in the nice bit of the train

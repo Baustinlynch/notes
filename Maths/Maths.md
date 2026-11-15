@@ -1,0 +1,35 @@
+# Maths
+
+## Topics
+- [[Differentiation]]
+- [[Distance formula]]
+- [[Algebraic fractions]]
+- [[Finding the equation of a straight line that doesn't (necessarily) pass through the origin.]]
+- [[Finding the equation of a straight line through the origin]]
+- [[Finding the gradient of a straight line from the equation]]
+- [[Midpoint formula]]
+- [[Exact values]]
+- [[Exponential Function]]
+- [[Graph of y=-f(x)]]
+- [[Graph of y=-kf(x)]]
+- [[Graph of y=f(x)+a]]
+- [[Graph of y=f(x+a)]]
+- [[Related Logarithmic graphs]]
+- [[Related exponential graphs]]
+- [[Perpendicular gradients]]
+- [[Indices]]
+- [[Inverse Functions]]
+- [[Logarithmic Functions]]
+- [[Completed square form]]
+- [[Finding the equation of a quadratic graph]]
+- [[Solving Quadratic Inequations]]
+- [[Sketching Quadratic Graphs from Completed Square Form]]
+- [[Solving a quadratic equation]]
+- [[Solving quadratic equations]]
+- [[Related angles]]
+- [[Set Notation]]
+- [[Statistics]]
+- [[Surds]]
+
+---
+*Converted from Excalidraw canvas*

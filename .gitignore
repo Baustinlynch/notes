@@ -1,0 +1,15 @@
+# Ignore all Scrap folders at any depth
+**/Scrap/
+**/Scrap/**
+
+# Ignore sync conflict files
+*.sync-conflict-*
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled/temp files
+*.log
+*.tmp
+*.temp
