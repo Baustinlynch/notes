@@ -21,7 +21,7 @@ The crop tool can be used to pull the handles inwards to crop the image. The cla
 ![Square cropping example 2](https://cdn.hackclub.com/01a1e8f3-366e-7cad-a07b-67091ca72409/upload.png)
 ### Full cropping
 Fancy name for removing the background of a piece.
-![Background removed example](https://cdn.hackclub.com/01a1e8f6-1266-75ac-bc9b-766fb9296464/no_background.png)
+![Background removed example](https://cdn.hackclub.com/01a1e905-79af-7992-8e09-de7ad2d472e3/bg_removed_real.png)
 
 # Text box Handles
 The rotate handle allow you to turn an image or text box at an angle.
