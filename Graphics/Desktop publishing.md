@@ -12,32 +12,32 @@
 
 ==🟡**Gutter.**== The gaps between the content.
 
-![[Pasted image 20261116144733.png]]
+![Margin columns and gutters](https://cdn.hackclub.com/01a1e8f3-2e0e-7dc0-a98c-8b6e1da2fe91/upload.png)
 
 # Cropping
 ### Square cropping 
 The crop tool can be used to pull the handles inwards to crop the image. The classic, crop parts off an image
-![[Pasted image 20261116145025.png]]
-![[Pasted image 20261116145037.png]]
+![Square cropping example](https://cdn.hackclub.com/01a1e8f3-3322-7107-846c-6e501b7c3868/upload.png)
+![Square cropping example 2](https://cdn.hackclub.com/01a1e8f3-366e-7cad-a07b-67091ca72409/upload.png)
 ### Full cropping
 Fancy name for removing the background of a piece.
-![[Pasted image 20261116145037.png]]==🔴TODO: REMOVE BACKGROUND FROM THIS IMAGE==
+![Background removed example](https://cdn.hackclub.com/01a1e8f6-1266-75ac-bc9b-766fb9296464/no_background.png)
 
 # Text box Handles
 The rotate handle allow you to turn an image or text box at an angle.
-![[Pasted image 20261116145407.png]]
+![Text box handles](https://cdn.hackclub.com/01a1e8f3-385a-7cea-a5d1-32616e439bc2/upload.png)
 Any time you select an object in a DTP package(Affinity), a frame will appear around it. These frames have handles which allow the object to be resized.
 
 # Colour picker
 Tools that selects and matches colours exactly.
-==🔴TODO: ADD EXAMPLE OF A COLOR PICKER==
+![Color picker example](https://cdn.hackclub.com/01a1e8f6-0a22-7ab5-8bc9-4ad0c7ae3b13/color_picker.png)
 
 # Fill
 ### Colour fill
 Colour fill allows a shape to be filled with a colour specified by the user
 ### Textured Fill
 There is a range of textures that can be applied to a shape when using DTP software.
-==🔴TODO: ADD EXAMPLES OF TEXTURES==
+![Texture fill examples](https://cdn.hackclub.com/01a1e8f6-0ca1-7062-8773-c6cb5837bbbf/texture_fills.png)
 
 ### Gradient fill
 A gradient fill shows one colour gradually fading into another.
@@ -50,11 +50,11 @@ DTP software should be set to display CMYK colours when working on projects that
 
 # Drop Capital
 Enlarging the first letter in an article creates a contrast in the size of the text used in the article. It also draws the readers eye to the start of the paragraph.
-![[Pasted image 20261116150036.png]]
+![Drop capital](https://cdn.hackclub.com/01a1e8f3-3bc2-7d67-85b3-cdd0509d009e/upload.png)
 
 # Drop shadow
 Drop shadow is a shadow placed behind an image to give the appearance of depth.
-![[Pasted image 20261116150147.png]]
+![Drop shadow](https://cdn.hackclub.com/01a1e8f3-3de4-7271-89f6-5bc62b0401ac/upload.png)
 
 # Text justification
 ### Left justified
@@ -82,19 +82,19 @@ These paragraphs are also visually separated.
 
 ## Text wrap
 Text wrap is when a paragraph of text follows the shape of an object or image. It creates unity and can save space on the publication.
-![[Pasted image 20261116150809.png|424]]
+![Text wrap](https://cdn.hackclub.com/01a1e8f3-4291-733f-9e23-8fee045ec7b8/upload.png)
 
 ## Text along a path
 Text that travels along a path or curve.
-![[Pasted image 20261116150918.png]]
+![Text along a path](https://cdn.hackclub.com/01a1e8f3-473a-7a31-b203-971b74cd3596/upload.png)
 
 ## Extended text
 A long section of body text.
-![[Pasted image 20261116150952.png]]
+![Extended text](https://cdn.hackclub.com/01a1e8f3-4931-77f5-9eeb-1ad73f2120aa/upload.png)
 
 ## Reverse text
 White text on a dark background.
-TODO: ADD EXAMPLE
+![Reverse text example](https://cdn.hackclub.com/01a1e8f6-0f03-7c6e-a88b-5d3834e92acd/reverse_text.png)
 It is used to create contrast - it emphasises the text. 
 
 ## Bleed
@@ -105,11 +105,9 @@ Lorem Ipsum is a dummy text used to replace text in some areas just as an exampl
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-TODO: ADD 1 PARA OF IPSUM
-
 ### Transparency
 The transparency setting allows object in a DTP document to be made see-through.
-![[Pasted image 20261116151330.png]]
+![Transparency](https://cdn.hackclub.com/01a1e8f3-4e4a-7ab8-a8f4-f203cb2402c1/upload.png)
 
 ### Header
 A header provides information at the very top of the page
@@ -122,7 +120,7 @@ Provides additional information to a heading or introduces a separate part of th
 
 ### Pull quote
 A pull quote is where a quote from the body text is enlarged.
-![[Pasted image 20261116151607.png|314]]
+![Pull quote](https://cdn.hackclub.com/01a1e8f3-524f-7296-b4aa-6b83e4101fce/upload.png)
 
 ### Caption
 A caption provides additional information about an image.
@@ -136,7 +134,7 @@ A running (repeating) footer that appears on the very bottom of the page, for ex
 
 ## Examples
 
-![[Pasted image 20261116152258.png]]
+![DTP Examples](https://cdn.hackclub.com/01a1e8f3-5983-7b91-b643-407e1eaaefae/upload.png)
 
 # Visuals
 Visuals are better quality representations of the final idea for presentation. They can be manually or digitally produced. The images used at this stage may be of lower quality than the final presentation.
