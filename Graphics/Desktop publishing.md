@@ -30,7 +30,7 @@ Any time you select an object in a DTP package(Affinity), a frame will appear ar
 
 # Colour picker
 Tools that selects and matches colours exactly.
-![Color picker example](https://cdn.hackclub.com/01a1e8f6-0a22-7ab5-8bc9-4ad0c7ae3b13/color_picker.png)
+![Color picker example](https://cdn.hackclub.com/01a1e909-5c85-7ae3-837d-8ef972768ec4/color_picker_win10_real.png)
 
 # Fill
 ### Colour fill
