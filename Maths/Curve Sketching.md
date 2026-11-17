@@ -1,7 +1,7 @@
 1. Sketch and annotate the graph of $f(x)=x^3+x^2-5x+3$.
     $(x-1)$ is a factor of $x^3+x^2-5x+3$
    **Find roots:**
-   ![[Drawing 2026-10-28 09.55.36.excalidraw]]
+   ![[Drawing 2026-10-28 09.55.36.excalidraw|247]]
    $x^3+x^2=(x-1)(x^2+2x-3)$
    $=(x-1)(x-1)(x+3)$
    $=(x-1)^2(x+3)$

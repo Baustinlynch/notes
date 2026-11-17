@@ -2,7 +2,7 @@ Suppose that an object of mass $m$, is acted upon by force $F$, for a time $t$. 
 Using $f=ma$ and $a=\frac{v-u}{t}$, we can combine them to get $F=m(\frac{v-u}t)$.
 This can also be written as $F=\frac{mv-mu}t$,$F=\frac{\text{final momentum}-\text{initial momentum}}t$,$Ft=mv-mu$ or $F=\frac{\Delta mv}{t}$.
 The 'change in momentum' is know as the **impulse**.
-$$\text{impulse}=\text{change in momemtum}=Ft=\Delta mv$$
+$$\text{impulse}=\text{change in momentum}=Ft=\Delta mv$$
 (This builds on the idea of [[Momentum|momentum]].)
 The units for impulse are $kgms^{-1}$(kilogram meters per second) or $Ns$ (Newton seconds)
 When their is a collision, the impact force is not constant throughout, the graph of the impact force resembles a bell curve. The impulse is equal to the are under the $Ft$ graph

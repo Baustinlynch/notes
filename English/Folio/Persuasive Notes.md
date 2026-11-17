@@ -29,14 +29,14 @@ https://consumerrights.wiki/w/New_York_3D_printer_blocking_technology_mandate#ci
 
 Rhetoric is the art of persuasion
 
-**Logos** - Based on reson (facts,statistics, evidence)
+**Logos** - Based on reason (facts, statistics, evidence)
 **Ethos** - Based on character (Experience, relatable)
-**Pathos** - Based feelings (Emotions, feelings)
+**Pathos** - Based on feelings (Emotions, feelings)
 
-**Extended metaphor or analogy** - A comparison between two unlike things that continues over muliple scentences, paragraphs, stanzas, or an entire text
+**Extended metaphor or analogy** - A comparison between two unlike things that continues over multiple sentences, paragraphs, stanzas, or an entire text
 
-Antithesis, parallelism, hyporphora - Antithesis - the exact oposite of something
-- Parallelism - using the same gramatical structure for
+Antithesis, parallelism, hypophora - Antithesis - the exact opposite of something
+- Parallelism - using the same grammatical structure for
 
 (These techniques are being applied in the [[Folio/Persuasive|persuasive essay]].)
 

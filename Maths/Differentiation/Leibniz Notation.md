@@ -17,4 +17,4 @@ $$\frac{dy}{dx}=f'(x)$$
    $$\frac{dy}{dt}=3t^2+6t^{-3}$$
 
 ---
-- **Hub:** [[Differentiation|← Back to Differentiation hub]]
+- **Hub:** [[Differentiation|← Back to Differentiation hub]] 

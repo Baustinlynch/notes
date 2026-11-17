@@ -1,4 +1,4 @@
-Tone is effectivly the voice of the author.
+Tone is effectively the voice of the author.
 Tone is how the text would be read out, if you were to speak it.
 
 #### What gets marks & How to answer
@@ -15,9 +15,9 @@ Word choice, Imagery, Sound(alliteration, assonance, sibilance, repetition, rhyt
 The tone is one of outrage.
 
 This tone is created through the author's use of a triple.
-By stating that the idea is 'preposterous,wasteful and deluded', the author stresses just how ridiculous he finds the proposed Olympics to be. These three words give the idea that he is completely shocked by the plan to cover over a sports pitch with tarmac, so shocked that he feels a wide range of negative emotions
+By stating that the idea is 'preposterous, wasteful and deluded', the author stresses just how ridiculous he finds the proposed Olympics to be. These three words give the idea that he is completely shocked by the plan to cover over a sports pitch with tarmac, so shocked that he feels a wide range of negative emotions
 The imagery of sacrificing the pitch on an 'altar' aids this tone of outrage.
-Just as an altar is a place of religious importance where an innocent is sacrificed in the persuit of benefits or to be viewed favourably by a higher being.
+Just as an altar is a place of religious importance where an innocent is sacrificed in the pursuit of benefits or to be viewed favourably by a higher being.
 #### Tone Vocabulary
 Sarcastic; ironic;
 Informal; chatty; colloquial; conversational;

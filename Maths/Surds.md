@@ -1,5 +1,5 @@
 A surd is a square root, cube root etc, of a whole number, which is **not** equal to a **whole number** 
-All surds are **irrational numbers**, i.e they **cannot be written as a fraction**. Therefore they also **cannot** be written as a **terminating decimal number**. (Surds also appear in [[Exact values|exact trigonometric values]].) 
+All surds are **irrational numbers**, i.e they **cannot be written as a fraction**. Therefore they also **cannot** be written as a **terminating decimal number**. (Surds also appear in [[Exact values and Radians|exact trigonometric values]].) 
 ### Where do surds come up?
 Surds come up in lots of places, some examples are: 
 The exact solutions of some equations e.g.

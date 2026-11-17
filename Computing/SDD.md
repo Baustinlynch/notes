@@ -1,5 +1,5 @@
 [[Implementation]]
-[[Development methodologys]]
+[[Development methodology]]
 [[School/Computing/Analysis]]
 
 ---

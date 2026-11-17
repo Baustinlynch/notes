@@ -28,7 +28,7 @@ Used by sales and marketing professionals to **advertise** a product and can be 
 
 ### Advantages
 - They can be animated to create visual appeal
-- Can be placed in a virtual enviroment to enhance realism and to give a greater sense of believability
+- Can be placed in a virtual environment to enhance realism and to give a greater sense of believability
 - They can show the customer what the product will look like, for example, material, highlights, shadows etc.
 - They can be used to advertise products
 ### Disadvantages

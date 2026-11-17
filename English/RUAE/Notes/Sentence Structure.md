@@ -1,8 +1,8 @@
 ## Types of Sentence Structure
 - ***Short/Minor sentences*** - A sentence without a verb
 - *Long sentences* - A sentence with lots of clauses, with lots of commas, and lots of bits.
-- *Sentence types*; Exclamation/command/statement/question(rehtorical)
-- *Repitition* - clause, phrase, word, sound
+- *Sentence types*; Exclamation/command/statement/question(rhetorical)
+- *Repetition* - clause, phrase, word, sound
 - Contrast and juxtaposition - used to emphasis the difference
 - *Antithesis/ balance*
 - ***lists***
@@ -16,7 +16,7 @@
 
 
 ## Punctuation
-- **!** - can be used to convay tone and emotion
+- **!** - can be used to convey tone and emotion
 - **:** - can be used to introduce a list
 - **;** - to connect 2 independent clauses that are related but could stand equally on their own
 - **...** - can be used at the end of a sentence to add to add suspense and ...

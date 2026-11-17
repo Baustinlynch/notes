@@ -8,7 +8,7 @@ y=\sin x
 (0.5,.5)|label:(50,sin50)
 ```
 ![[Excalidraw/Maths/Related angles|Related angles]]
-(Related: these build on the [[Exact values|exact trig values]] and are used with [[Exact values|radian measure]].)
+(Related: these build on the [[Exact values and Radians|exact trig values]] and are used with [[Exact values and Radians|radian measure]].)
 
 2. Write these as trig functions of **acute angles**:
 	1. $\sin 100°$

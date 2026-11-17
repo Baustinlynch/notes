@@ -17,7 +17,7 @@
 
 **Quotes**
 - "I've ruint the world"
-  This quote shows how jack's character develops through the text, as he reilises his mistakes, and takes responsibility for what he has done
+  This quote shows how jack's character develops through the text, as he realises his mistakes, and takes responsibility for what he has done
 
 %% col-end %%
 

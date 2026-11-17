@@ -1,6 +1,6 @@
-A rocket is travelig to the planet Zorg, which has a '$g$' of $5kg^{-1}$. It has no atmosphere. The rocket has $m=25000kg$
+A rocket is travelling to the planet Zorg, which has a '$g$' of $5kg^{-1}$. It has no atmosphere. The rocket has $m=25000kg$
 
-1. Draw a diagram labellig all the forces as it deceds to  the planet at a constant speed.
+1. Draw a diagram labelling all the forces as it descends to the planet at a constant speed.
 	   ![[Drawing 2026-08-31 09.04.39.excalidraw]]
 2. What is  the thrust?
    $T=w=mg$
@@ -22,7 +22,7 @@ $\Delta T=25,000=F$
 
 %% col-end %%
 
-4. The rocket was descending at $3ms^{-1}$ when the thrust was increaded. It hits the ground at $0.2ms^{-1}$. At what height above the ground was the thrust increased?
+4. The rocket was descending at $3ms^{-1}$ when the thrust was increased. It hits the ground at $0.2ms^{-1}$. At what height above the ground was the thrust increased?
    $v^2=u^2+2as$
    $0.2^2=3^2+2\times(-1)\times s$
    $S=4.48m$ 

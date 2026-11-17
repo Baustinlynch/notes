@@ -1,5 +1,5 @@
-Equilibrium --> Disruption --> Search --> Flashback --> Revelaion --> Resolution
-1. Endering, lonely, comfortable, simple, routine, hopefull, dull
+Equilibrium --> Disruption --> Search --> Flashback --> Revelation --> Resolution
+1. Endearing, lonely, comfortable, simple, routine, hopeful, dull
 
 #### Section 1: opening (lines 1-20)
 Present tense:**Andrina** visits **bill** daily
@@ -33,7 +33,7 @@ Present tense:**Andrina** visits **bill** daily
 			  Finding Andrina : Bill goes to find why Andrina is gone : Finds that no-one on the island has heard of Andrina : Goes home and finds the letter that says that Andrina, his granddaughter is dead : Andrina was a ghost, she died in Australia
 ```
 ### Thoughts on Bill
-Bill was a bad person, as he got Sigrid pregnant then ran away from his problems and responsibilitys, not even stopping to think that Sigrid might be following him. He was trying to run away from the shame of pregnancy out of wedlock, but that still does not forgive what he has done.
+Bill was a bad person, as he got Sigrid pregnant then ran away from his problems and responsibilities, not even stopping to think that Sigrid might be following him. He was trying to run away from the shame of pregnancy out of wedlock, but that still does not forgive what he has done.
 
 
 ---

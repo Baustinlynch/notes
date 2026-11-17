@@ -68,13 +68,13 @@ This consists of a number of equally spaced parallel, narrow slits. When a grati
 ![[Drawing 2026-11-05 12.00.40.excalidraw]]
 There will be bright bands (fringes) caused by constructive interference when.
 $$d\sin \theta=m\lambda$$
-$d$ is the 'slit seperation'
+$d$ is the 'slit separation'
 $\theta$ is the angle
 $\lambda$ is the wavelength
 m is the 'order'
 (where m=0 is the central fringe, $m=1$ is the first fringe from the center, and $m=2$ is the second, etc...)
 **How to find $d$** 
-$$d=\text{split seperation}=\frac{\text{distance in m}}{\text{no. of lines}}$$
+$$d=\text{split separation}=\frac{\text{distance in m}}{\text{no. of lines}}$$
 #### Example:
 1. What is $\lambda$ if a grating of 600 lines per mm produces the first off center fringe at an angle of 17.8$\degree$?
    $\lambda=\frac{d\sin \theta}{m}$

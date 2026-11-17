@@ -61,10 +61,10 @@ $m=18,000kg$
 The spring is allowed to settle. The thread is then cut. What is the acceleration of the 6kg block.
 
 %% col-end %%
-When balanced the Tesion on the spring is=$T=W=mg$
+When balanced the Tension on the spring is=$T=W=mg$
 $W=8\times9.8$
 $W=78.4N$
-When the thread is cut, $T$ in sping is still $78.4N$ **but** their is a new $W=mg$, $W=6\times9.8=58.8N$. After the thread is cut the $F^{}_{un}=78.4-58.8=19.6N$ 
+When the thread is cut, $T$ in spring is still $78.4N$ **but** their is a new $W=mg$, $W=6\times9.8=58.8N$. After the thread is cut the $F^{}_{un}=78.4-58.8=19.6N$ 
 $F^{}_{un}=ma$
 $19.6=6a$
 $a=\frac{19.6}{6}$

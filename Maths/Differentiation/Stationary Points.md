@@ -4,9 +4,9 @@ tags: [sub-note, differentiation]
 
 # Differentiation - Stationary Points and Their Nature
 
-![[Stationary points.excalidraw]]
+![[Stationary points.excalidraw|550]]
 ### Natures of stationary points
-![[Natures of stationary points.excalidraw]]
+![[Natures of stationary points.excalidraw|640]]
 
 To check the nature of a stationary point (SP) we investigate the signs of $f'(x)$ on either side of the SP.
 
@@ -20,7 +20,7 @@ To check the nature of a stationary point (SP) we investigate the signs of $f'(x
    S.P at $(2,-93)$
    
    Nature Table:
-   ![[Nature Table.excalidraw]]
+   ![[Nature Table.excalidraw|501]]
 
 2. Find the **Stationary points** of $y=x^3-12x$ and determine their nature.
    $$\frac{dy}{dx}=3x^2-12=0 \to 3(x^2-4)=0 \to x=2 \text{ or } x=-2$$
@@ -29,7 +29,7 @@ To check the nature of a stationary point (SP) we investigate the signs of $f'(x
    
    For $x=-2$: $y=-8+24=16$ → $(-2,16)$
    
-   ![[Nature table example 2.excalidraw]]
+   ![[Nature table example 2.excalidraw|308]]
 
 ---
 - **Hub:** [[Differentiation|← Back to Differentiation hub]]

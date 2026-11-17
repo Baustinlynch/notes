@@ -24,7 +24,7 @@ SDD ^fbN4szwW
 
 Analysis.sync-conflict-20260813-135312-YL4ELR3 ^8WMPrNXY
 
-Development methodologys ^ninJy3Bb
+Development methodology ^ninJy3Bb
 
 Implementation.sync-conflict-20260813-135312-YL4ELR3 ^ZZAPu8K9
 
@@ -47,7 +47,7 @@ fbN4szwW: [[SDD]]
 
 8WMPrNXY: [[Analysis.sync-conflict-20260813-135312-YL4ELR3]]
 
-ninJy3Bb: [[Development methodologys]]
+ninJy3Bb: [[Development methodology]]
 
 ZZAPu8K9: [[Implementation.sync-conflict-20260813-135312-YL4ELR3]]
 

@@ -1,13 +1,13 @@
 Some values of $\sin$,$\cos$,$\tan$ can be written exactly. It is important to remember them for many parts of the higher cource, including radian measure and finding [[Surds|exact solutions]].
-![[Exact values overveiw.excalidraw]]
+![[Exact values overveiw.excalidraw|363]]
 
 ### For 30°
-![[Exact values 30]]
+![[Exact values 30|283]]
 ### For 60°
-![[Exact values60.excalidraw]]
+![[Exact values60.excalidraw|305]]
 ### For 45°
 Start with an isosceles triangle with two sides of length 1
-![[Exact values45.excalidraw]]
+![[Exact values45.excalidraw|299]]
 
 # Radians
 There is another way of measuring angles, radians.
@@ -15,7 +15,7 @@ $$\text{degrees}\leftrightarrow \text{radians}$$
 $$\text{centimeters}\leftrightarrow\text{inches}$$
 "One radian is the angle **subtended** at the center of a circle by an arc of one length radius."
 
-![[Radians deffinition.excalidraw]]
+![[Radians deffinition.excalidraw|692]]
 
 | Arc          | Angle in degrees | Angle in radians                             |
 | ------------ | ---------------- | -------------------------------------------- |

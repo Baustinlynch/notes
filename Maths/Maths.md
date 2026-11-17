@@ -8,7 +8,7 @@
 - [[Finding the equation of a straight line through the origin]]
 - [[Finding the gradient of a straight line from the equation]]
 - [[Midpoint formula]]
-- [[Exact values]]
+- [[Exact values and Radians]]
 - [[Exponential Function]]
 - [[Graph of y=-f(x)]]
 - [[Graph of y=-kf(x)]]

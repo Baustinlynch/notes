@@ -3,7 +3,8 @@ $$\cos(A-B)=\cos A\cos B+\sin A\sin B$$
 ---
 $$\cos(A\pm B)=\cos A\cos B\pm \sin A\sin B$$
 #### Examples:
-1. Find the exact value of $\cos ( \frac{5\pi}{12} )=\cos( \frac{3\pi}{12} +\frac{2\pi}{12})$
+1. Find the exact value of $\cos ( \frac{5\pi}{12} )$
+   $=\cos( \frac{3\pi}{12} +\frac{2\pi}{12})$
    $=\cos( \frac{\pi}{4} +\frac{\pi}{6} )$
    $=\cos \frac{\pi}{4}\cos \frac{\pi}{6}-\sin \frac{\pi}{4}\sin \frac{\pi}{6}$
    ![[Drawing 2026-11-09 12.14.01.excalidraw|229]]

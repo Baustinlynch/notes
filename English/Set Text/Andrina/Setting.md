@@ -1,4 +1,4 @@
-Most of the island is covered in empty fields, with speratic fences seperating the plots. The landscape is ocationaly interupted by a cottage. with one or 2 small seaside towns. Bill lives just outside of one of these small towns, and only ocasionaly ventures in. most of the people on the island live near the town, but their is also a good number of people who live on crofts across the island. for most of the island their is no one for miles, and you can be very isolated.
+Most of the island is covered in empty fields, with sporadic fences separating the plots. The landscape is occasionally interrupted by a cottage. With one or 2 small seaside towns. Bill lives just outside of one of these small towns, and only occasionally ventures in. Most of the people on the island live near the town, but there is also a good number of people who live on crofts across the island. For most of the island there is no one for miles, and you can be very isolated.
 
 ### Selaskay
 

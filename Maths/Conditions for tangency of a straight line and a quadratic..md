@@ -1,4 +1,4 @@
-![[Drawing 2026-11-04 14.02.38.excalidraw|603]]
+![[Drawing 2026-11-04 14.02.38.excalidraw|474]]
 1. Show that $y=2x+7$ is tangent to the curve $y=6-x^2$ and find the coordinates of the point of contact.
    The line and the curve meet where $2x+7=6-x^2$, $\therefore x^2+2x+1=0$, and $a=1$, $b=2$, $c=1$
    $b^2-4ac=2^2-4(1)(1)=0 \therefore$ one point of contact, hence the line is a tangent.

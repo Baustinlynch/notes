@@ -8,7 +8,7 @@ Differentiation has **2 descriptions:**
 1. The <u>derivative</u> $f'(x)$ gives the <u>gradient of the tangent</u> to $f(x)$ at the point $(x,f(x))$.
 2. The <u>derivative</u> $f'(x)$ gives the <u>rate of change</u> of the function $f(x)$ at the point $(x,f(x))$.
 
-![[Differentiation diagram.excalidraw]]
+![[Differentiation diagram.excalidraw|316]]
 
 Differentiation is the process of finding the derivative (or derived function) algebraically.
 

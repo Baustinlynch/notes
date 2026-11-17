@@ -34,7 +34,7 @@ $$H=0.8Sv$$
 # Equivalent Dose Rate
 Equivalent dose rate takes into account the time exposed to the radiation.
 $$\dot{H}=\frac{H}{t}$$
-$$Equivalent~Dose~rate~per~second,measured~in~Svs^{-1}=\frac{Equivilent~Dose~in~Sv}{Time~in~s}$$
+$$Equivalent~Dose~rate~per~second,measured~in~Svs^{-1}=\frac{Equivalent~Dose~in~Sv}{Time~in~s}$$
 
 ##### Example:
 A research worker receives 500$\mu Sv$ of radiation over 2 hours.
