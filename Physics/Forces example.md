@@ -1,4 +1,4 @@
-A rocket is travelling to the planet Zorg, which has a '$g$' of $5kg^{-1}$. It has no atmosphere. The rocket has $m=25000kg$
+A rocket is travelling to the planet Zorg, which has a '$g$' of $5\\ \\text{ms}^{-2}$. It has no atmosphere. The rocket has $m=25000kg$
 
 1. Draw a diagram labelling all the forces as it descends to the planet at a constant speed.
 	   ![[Drawing 2026-08-31 09.04.39.excalidraw]]

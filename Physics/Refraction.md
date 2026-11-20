@@ -7,20 +7,20 @@ Refraction is the **change in speed and direction of a wave** as it passes from 
 
 ### The refractive index
 
-This value '$n$'is a **ratio** so it has no units. It is defined as the ratio of the speed of light in one medium compared to the speed in another. The absolute refractive index is the ratio of the speed of light in a vacuum to speed of light in the material.
+This value '$n$' is a **ratio** so it has no units. It is defined as the ratio of the speed of light in one medium compared to the speed in another. The absolute refractive index is the ratio of the speed of light in a vacuum to the speed of light in the material.
 $$n=\frac{v_{1}}{v_{2}}$$
 e.g.                $n_{\text{glass}}=\frac{V_{\text{air}}}{V_{\text{glass}}}$
 
 #### Snell's Law
 
-Snell's law can be used to find the refractive index of a material from the angles of incidence and refraction of a 2 materials.
+Snell's law can be used to find the refractive index of a material from the angles of incidence and refraction of two materials.
 $$n=\frac{\sin \theta_{1}}{\sin \theta_{2}}$$
 This gives the refractive index for the material the light is travelling into so can be thought of as $n_{2}=\frac{\sin \theta_{1}}{\sin \theta_{2}}$
 
 ##### Experiment:
 
 **Aim:** To find the refractive index of a perspex block.
-**Method**: A laser was shined into the semi-circular perspex prism as incremental marked angles from the normal as shown as $\theta_{1}$ in the following table:
+**Method**: A laser was shone into the semi-circular perspex prism at incremental marked angles from the normal as shown as $\theta_{1}$ in the following table:
 
 | $\theta_{1}$ | $\sin \theta_{1}$ | $\theta_{2}$ | $\sin \theta_{2}$ |
 | ------------ | ----------------- | ------------ | ----------------- |
@@ -32,7 +32,8 @@ This gives the refractive index for the material the light is travelling into so
 ![[Drawing 2026-10-22 12.09.23.excalidraw]]
 And the angle from the normal of the resultant refracted beam was recorded as $\theta_{2}$ in the table.
 
-Conclusion the refractive index of a
+**Conclusion:** The refractive index of a perspex block is calculated from the gradient of the $\sin \theta_1$ vs $\sin \theta_2$ graph.
+
 ##### Examples:
 
 1.
@@ -44,7 +45,7 @@ Conclusion the refractive index of a
    $n_{x}=\frac{\sin \theta_{1}}{\sin \theta_{2}}=\frac{\sin 30}{\sin{16}}$
 3.
    ![[Drawing 2026-10-22 12.57.49.excalidraw]]
-   Apply the principle of reversibility, to calculate this, we need to change the path of the light to be in the opposite direction:
+   Apply the principle of reversibility; to calculate this, we need to change the path of the light to be in the opposite direction:
    ![[Drawing 2026-10-22 12.59.47.excalidraw]]
    $n_{x}=\frac{\sin \theta_{1}}{\sin \theta_{2}}=\frac{\sin{21}}{\sin 15}$
    $n_{x}=1.384$
@@ -63,26 +64,28 @@ The equation to **find the critical angle** is:
 $$\sin \theta_c = \frac{1}{n}$$
 
 **Total internal reflection** occurs when the angle of incidence exceeds the critical angle — all light is reflected back into the denser medium.
+
 ### Diffraction Grating
 This consists of a number of equally spaced parallel, narrow slits. When a grating is placed in front of a monochromatic light source, an interference pattern is produced.
 ![[Drawing 2026-11-05 12.00.40.excalidraw]]
-There will be bright bands (fringes) caused by constructive interference when.
+There will be bright bands (fringes) caused by constructive interference when:
 $$d\sin \theta=m\lambda$$
 $d$ is the 'slit separation'
 $\theta$ is the angle
 $\lambda$ is the wavelength
-m is the 'order'
-(where m=0 is the central fringe, $m=1$ is the first fringe from the center, and $m=2$ is the second, etc...)
-**How to find $d$** 
-$$d=\text{split separation}=\frac{\text{distance in m}}{\text{no. of lines}}$$
+$m$ is the 'order'
+(where $m=0$ is the central fringe, $m=1$ is the first fringe from the center, and $m=2$ is the second, etc.)
+
+**How to find $d$**
+$$d=\text{slit separation}=\frac{\text{distance in m}}{\text{no. of lines}}$$
+
 #### Example:
-1. What is $\lambda$ if a grating of 600 lines per mm produces the first off center fringe at an angle of 17.8$\degree$?
+1. What is $\lambda$ if a grating of 600 lines per mm produces the first off-center fringe at an angle of 17.8$\degree$?
    $\lambda=\frac{d\sin \theta}{m}$
    $d=\frac{0.001}{600}$
    $\lambda=\frac{\frac{0.001}{600}\sin17.8}{1}$
    $\lambda=6.09\times 10^{-7}$
-   
-   
+
 
 ---
 - **Subject map:** [[Physics|Physics]]

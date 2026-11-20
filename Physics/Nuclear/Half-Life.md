@@ -10,7 +10,7 @@ $\ce{^266Sg}$ has a half-life of almost exactly **30 Seconds**, so if we start w
 ---
 ### Experiment to find half life
 
-![](https://bam.files.bbci.co.uk/bam/live/content/zs79d2p/large)
+![](https://cdn.hackclub.com/01a1f6e4-5b28-7de1-a276-ffd4857edf24/large)
 Before the source is used the background count rate is measured using a Geiger Muller tube connected to a counter. The count rate from the source is then measured at regular fixed intervals over a period of time.
 
 The background count rate is subtracted from each measurement of the count rate and so the actual count rate from the source is calculated (known as the 'corrected count rate'). An example of this is shown in the table below.
@@ -25,7 +25,7 @@ The background count rate is subtracted from each measurement of the count rate 
 | 5            | 13                                       |
 
 A graph of the count rate of the source against time is plotted.
-![](https://bam.files.bbci.co.uk/bam/live/content/zqn26sg/large)
+![](https://cdn.hackclub.com/01a1f6e4-5fdb-7c10-bec3-c41dcc027ff0/large)
 From the graph, the time taken for the count rate to fall by half is measured. A number of measurements are made and an average value is calculated. The average value is the half-life of the radioactive source.
 
 For example:

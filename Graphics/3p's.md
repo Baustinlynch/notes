@@ -1,10 +1,10 @@
 # Preliminary graphics
-Used in the planning stages of a product. Often consists of 'concept' sketches which are **quick,small** and **rough** sketches showing your ideas. Gantt charts can also be used in this stage to plan the tasks involved in the project
+Used in the planning stages of a product. Often consists of 'concept' sketches which are **quick, small** and **rough** sketches showing your ideas. Gantt charts can also be used in this stage to plan the tasks involved in the project.
 ### Advantages
 - Quick to produce
 - Can be a good way of recording designs
 - Can be produced cheaply
-- Useful when communication ideas to a client or colleague
+- Useful when communicating ideas to a client or colleague
 
 ### Disadvantages
 - Not drawn to scale
@@ -24,7 +24,7 @@ Used by architects, engineers and manufacturers to make a product and therefore 
 - Costly specialist equipment is required
 
 # Promotional graphics
-Used by sales and marketing professionals to **advertise** a product and can be in the form of brochures, posters, leaflets, displays etc. The must be eye catching and effective.
+Used by sales and marketing professionals to **advertise** a product and can be in the form of brochures, posters, leaflets, displays etc. They must be eye-catching and effective.
 
 ### Advantages
 - They can be animated to create visual appeal
@@ -34,4 +34,4 @@ Used by sales and marketing professionals to **advertise** a product and can be 
 ### Disadvantages
 - You need skill to produce them
 - They can give a false impression of the product
-- Cant physically touch the rendered model
+- Can't physically touch the rendered model

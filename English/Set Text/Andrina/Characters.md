@@ -22,16 +22,16 @@
 - Honest but flawed
 - Avoids expressing emotions
 - Haunted by past choices
-- Bill is the narative voice in the story.
-	- It is a third person narration,
-	- but focuesed on the perspective of Bill for most of the text
-- His narration can be unreliable at times, such as when he has the flu, and when he is imagening 
+- Bill is the **narrative** voice in the story.
+	- It is a third person **narration**,
+	- but **focused** on the perspective of Bill for most of the text
+	- His narration can be unreliable at times, such as when he has the flu, and when he is **imagining**
 #### Quotes
 - ==""==
 -
 
 %% col-end %%
-Bill is the narative voice in the story, it is a third person naration, but focused on the perspective of Bill for most of the text. His narration can be unreliable at times, he had the flu, and he imagined Andrina, but to the reader, the description was real. He makes use of self-depricating humor. Throughout the text 
+Bill is the **narrative** voice in the story, it is a third person **narration**, but focused on the perspective of Bill for most of the text. His narration can be unreliable at times, he had the flu, and he imagined Andrina, but to the reader, the description was real. He makes use of **self-deprecating** humor. Throughout the text 
 (Both he and [[Voice spoke/Character and Narrator|the narrator in A Voice Spoke to Me in the Night]] are lonely, isolated figures whose narration shapes the story.) 
 
 ## Andrina
@@ -89,8 +89,8 @@ She starts to
 
 
 %% col-end %%
-Kind,forgiving,dignidied
-rewrited the past gently
+Kind, forgiving, **dignified**
+**rewrote** the past gently
 
 ## Character relationships
 ```mermaid

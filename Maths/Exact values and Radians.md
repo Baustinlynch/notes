@@ -1,5 +1,5 @@
-Some values of $\sin$,$\cos$,$\tan$ can be written exactly. It is important to remember them for many parts of the higher cource, including radian measure and finding [[Surds|exact solutions]].
-![[Exact values overveiw.excalidraw|363]]
+Some values of $\sin$,$\cos$,$\tan$ can be written exactly. It is important to remember them for many parts of the higher **course**, including radian measure and finding [[Surds|exact solutions]].
+![[Exact values **overview**.excalidraw|363]]
 
 ### For 30°
 ![[Exact values 30|283]]
@@ -15,7 +15,7 @@ $$\text{degrees}\leftrightarrow \text{radians}$$
 $$\text{centimeters}\leftrightarrow\text{inches}$$
 "One radian is the angle **subtended** at the center of a circle by an arc of one length radius."
 
-![[Radians deffinition.excalidraw|692]]
+![[Radians **definition**.excalidraw|692]]
 
 | Arc          | Angle in degrees | Angle in radians                             |
 | ------------ | ---------------- | -------------------------------------------- |
@@ -37,7 +37,7 @@ $$\text{centimeters}\leftrightarrow\text{inches}$$
 180° is $\pi$ radians
 1° is $\frac{\pi}{180}$
 137° is $\frac{\pi}{180}\times137=2.3411$...radians
-2. find the exact value of $\cos\frac{7\pi}{4}$ withous a calculator
+2. find the exact value of $\cos\frac{7\pi}{4}$ **without** a calculator
 $\cos\frac{7\pi}{4}=\cos(7\times45)°$
 $=\cos315°$
 $=\cos45°$

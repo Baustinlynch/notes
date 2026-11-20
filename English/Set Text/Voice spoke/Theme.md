@@ -10,7 +10,7 @@
 ### Key idea
 - Mal's entire village has been wiped out, leaving him as the **sole survivor**.
 - Loss of community shapes of identity, his emotional world, and his actions.
-- the narrators modern life contrasts sharply: she has *people around her*, yet feels emotionaly isolated
+- the narrators modern life contrasts sharply: she has *people around her*, yet feels emotionally isolated
 - The story explores how community can 
 
 ## Modern Comfort vs. Ancient Trauma

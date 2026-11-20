@@ -91,7 +91,7 @@
 The theme of loneliness is a good linking point to [[Voice spoke/Theme|A Voice Spoke to Me in the Night]]
 
 - Bill is very isolated, but Andrina's presence helps him
-- His island comunity feels distant
+- His island **community** feels distant
 - Sigrid's isolation and abandonment when pregnant
 
 %% col-end %%
@@ -115,7 +115,7 @@ The theme of loneliness is a good linking point to [[Voice spoke/Theme|A Voice S
 **Notes**
 
 - Ghostly visitations — elements of Scottish folklore traditions
-- Not horror per say but it is a very truthful emotional story
+- Not horror per se but it is a very truthful emotional story
 - Symbolic rather than literal
 
 

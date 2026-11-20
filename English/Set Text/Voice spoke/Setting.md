@@ -2,19 +2,19 @@
 - **Key quote**
 	- "I live in a new-build house above a tesco metro"
 - **Higher analysis**
-	- Ant-gothic modern setting 
-	- Urban anonymity and emotional disconection
+	- Ant-gothic modern setting
+	- Urban anonymity and emotional **disconnection**
 	- Contrast with Mal's historical world
 - Symbolism
 	- Modern loneliness; spiritual emptiness
 
-## Autum season
+## **Autumn** season
 - **Key Quotes**
 	- "It had decided to become overnight"
-	- "The leaves... make me think of slipping and huring myself."
+	- "The leaves... make me think of slipping and **hurting** myself."
 - **Higher Analysis**
-	- Season as metaphor for decline — autum becomes winter, the light declines, it gets darker
-	- Emotional vulnerabulity mirrored in the season
+	- Season as metaphor for decline — **autumn** becomes winter, the light declines, it gets darker
+	- Emotional **vulnerability** mirrored in the season
 - **Symbolism**
 - (Compare with the seasonal change from winter to spring in [[Andrina/Setting|Andrina]].)
 
@@ -24,7 +24,7 @@
 	- "It was raining, properly lashing it down."
 - **Higher Analysis**
 	- Pathetic fallacy
-	- Suspended tesion $-->$ Emotional rupture
+	- Suspended **tension** $-->$ Emotional rupture
 	- Weather as a pacing device
 - **Symbolism**
 	- Pressure
@@ -34,9 +34,9 @@
 ## The workplace
 - **Key Quotes**
 	- "He doesn't think much of me..."
-	- "I get unpleasent feeling from meeting with my boss"
+	- "I get **unpleasant** feeling from meeting with my boss"
 - **Higher Analysis**
-	- Social setting 
+	- Social setting
 - **Symbolism**
 
 ## Mal's World
@@ -44,7 +44,7 @@
 	- "He was the only man left alive in his village"
 	- "Death... standing over the bodies with her long soft wings."
 - **Higher Analysis**
-	- Rual
+	- **Rural**
 - **Symbolism**
 ---
 - **Subject map:** [[English|English]]

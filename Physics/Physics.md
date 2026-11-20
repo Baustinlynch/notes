@@ -2,9 +2,7 @@
 
 ## Topics
 - [[Projectiles]]
-- [[Measuring acceleration]]
 - [[Connected Masses]]
-- [[Transistors]]
 - [[Connected Forces]]
 - [[Density]]
 - [[Elastic and Inelastic Collisions]]
@@ -20,6 +18,7 @@
 - [[Scalars and Vectors]]
 - [[Benefits and barriers to space exploration]]
 - [[Light Years]]
+- [[Hubble's Law]]
 - [[Orbits]]
 - [[Re-entry]]
 - [[Satellites]]
@@ -28,6 +27,19 @@
 - [[Properties of a wave]]
 - [[Types of waves]]
 - [[Wave Equations]]
+- [[Time Dilation]]
+- [[The Doppler effect]]
+- [[Refraction]]
+- [[The Photoelectric effect]]
+- [[Interference]]
+- [[Irradiance]]
+- [[Irradiance and Distance]]
+- [[Scalars and Vectors/Resolving vectors|Resolving vectors]]
+- [[Scalars and Vectors/Scalars and Vectors|Scalars and Vectors]]
+- [[Circuits/Transistors|Transistors]]
+- [[Nuclear/Fission and Fusion|Fission and Fusion]]
+- [[Nuclear/Radiation|Radiation]]
+- [[Nuclear/Half-Life|Half-Life]]
 
 ---
 *Converted from Excalidraw canvas*

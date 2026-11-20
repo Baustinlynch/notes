@@ -1,6 +1,6 @@
 
 > [!Summary]
-> Transistor are electronic switches, when the voltage over the trigger pin reaches a specific threshold the switch closes.
+> **Transistors** are electronic switches; when the voltage over the trigger pin reaches a specific threshold, the switch closes.
 > 
 
 ---

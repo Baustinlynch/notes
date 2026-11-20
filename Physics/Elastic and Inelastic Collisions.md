@@ -1,5 +1,5 @@
- In all collisions the momentum and <u><strong>total</strong></u> energy is conserved Often their will be a loss of $E_{k}$. (The same conservation of momentum principle is covered in [[Momentum]].)
-<p align="center">Elastic collision --> <span class="math display">E_{k}</span>is conserved</p> 
+ In all collisions the momentum and **total** energy is conserved. Often **there** will be a loss of $E_{k}$. (The same conservation of momentum principle is covered in [[Momentum]].)
+<p align="center">Elastic collision --> **$E_{k}$ is conserved</p> 
 
 ## Example 
 Is this collision   elastic?

@@ -27,8 +27,8 @@ $mgh=\frac12mv^2+Fd$
 
 %% col-break:b:accent-soft %%
 
-$h=\sin{30}\frac{o}{3}$
-$h=
+$h=\sin{30}\times3$
+$h=1.5\text{ m}$
 
 %% col-end %%
 

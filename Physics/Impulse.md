@@ -5,13 +5,13 @@ The 'change in momentum' is know as the **impulse**.
 $$\text{impulse}=\text{change in momentum}=Ft=\Delta mv$$
 (This builds on the idea of [[Momentum|momentum]].)
 The units for impulse are $kgms^{-1}$(kilogram meters per second) or $Ns$ (Newton seconds)
-When their is a collision, the impact force is not constant throughout, the graph of the impact force resembles a bell curve. The impulse is equal to the are under the $Ft$ graph
+When **there** is a collision, the impact force is not constant throughout, the graph of the impact force resembles a bell curve. The impulse is equal to the are under the $Ft$ graph
 #### Example:
-A pool cue hist a ball of mass $0.2kg$ which is at rest. It moves off at $3ms^{-1}$. The contact time is 0.015s. Find the average force.
+A pool cue **hits** a ball of mass $0.2kg$ which is at rest. It moves off at $3ms^{-1}$. The contact time is 0.015s. Find the average force.
 $$F=\frac{mv-mu}t$$
 $$F=\frac{0.2\times 3-0.2\times 0}{0.015}$$
 ### Impulse and Airbags
-Airbags in cars are used to make the change in momentum (impulse) take a longer time when their is a crash. 
+Airbags in cars are used to make the change in momentum (impulse) take a longer time when **there** is a crash. 
 This means that the force of the impact would be reduced.
 Think of the $Ft$ graph...
 ![[Airbag diagram.excalidraw]]

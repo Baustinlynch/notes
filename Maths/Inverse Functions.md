@@ -1,5 +1,5 @@
 An **inverse function**, $f{^-1}(x)$, exists if there is an one-to-one correspondence between the domain and the range of $f$.
-If that is true, the **domain** of $f$ is equal to the **range** of $f{^-1}$ and vise vera
+If that is true, the **domain** of $f$ is equal to the **range** of $f{^-1}$ and **vice versa**
 (This builds on the idea of [[Set Notation|functions, domains and ranges]].)
 ### Example:
 Find a formula for the inverse function of:
@@ -25,9 +25,9 @@ id4 --> id5((-5)) --> id6((x2)) --> id1
 $f(f^{-1}(x))=\frac 12f^{-1}(x)+5$
 $x=\frac12f^{-1}(x)+5$
 $x-5=\frac12f^{-1}(x)$
-$f^{-1}(x)
+$f^{-1}(x)=2(x-5)=2x-10$
 
-3. $f(x)=6-5x$
+ 3. $f(x)=6-5x$
 **Change the subject**
 $f(f^{-1}(x))=6-5f^{-1}(x)$
 $x-6=-5f^{-1}(x)$
