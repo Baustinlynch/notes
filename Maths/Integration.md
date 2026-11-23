@@ -11,10 +11,18 @@ i.e. no roots, no variables in denominators, no un-expanded brackets.
    $=\int x^{-7}dx$
    $=\frac{x^{-6}}{-6}+c$
    $=-\frac{1}{6x^6}+c$
-3. $\int \sqrt[3]{ x }dx=\int x^{\frac 13}dx$
-   $=\frac{x^{\frac 43}}{\frac 43}+c$
-   $\frac{3}{4}x^{\frac 43}+c$
-   
+3. $\int \sqrt[3]{ x }~dx=\int x^\frac 13dx$
+   $=\frac{x^{\frac{4}{3}}}{\frac 43}+c$
+   $=\frac{3}{4}x^{\frac{3}{4}}+c$
+4. $\int\frac{t^2+2}{\sqrt{ t }}dt=\int\left( \frac{t^2}{t^{\frac 12}}+\frac{2}{t^{\frac 12}} \right)dt$
+   $=\int (t^{\frac 32}+2t^{-\frac 12})dt$
+   $=\frac{t^{\frac 52}}{\frac{5}{2}}+\frac{2t^{\frac 12}}{\frac 12}+c$
+   $=\frac{2t^{\frac 52}}{5}+4t^{\frac 12}$
+5. $\int\frac{(x-5)(x+5)}{x^2}dx=\int\frac{x^2-25}{x^2}dx$
+   $=\int\left( \frac{x^2}{x^2}-\frac{25}{x^2} \right)dx$
+   $=\int(1-25x^{-2})dx$
+   $=x-\frac{25}{-1}x^{-1}+c$
+   $=x+\frac{25}{x}+c$
    
 ## Basic integration
 To integrate with respect to $x$:

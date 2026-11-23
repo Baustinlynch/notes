@@ -1,6 +1,6 @@
 **Examples of polynomials:**
 $$x^3-5x+4$$$$x^4+4x^3+6x^2+4x+1$$$$(y+3)(y-5)-y^2-2y-15$$
-A **polynomial** ==🟢is== an expression with only one variable
+A **polynomial** is an expression with only one variable
 The **degree** of a polynomial is its highest power.
 In the polynomial $x^4+3x^3+6x^2+4x+1$, the **coefficient** of $x^3$ is $4$
 The **root** of a polynomial function is the value of the variable that makes the function zero - it is $a$ such that $f(a)=0$ 

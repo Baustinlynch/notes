@@ -106,7 +106,7 @@ Types of tone:
 | Angry           | To share frustration and anger with the reader                                                        |
 | Sombre          | To explore a sad or serious event                                                                     |
 | Sarcastic       | To ridicule or mock in a harsh manner                                                                 |
-| Dissmisive      | To try to make the opinion they are showing look stupid, to make people less likely to agree with it. |
+| Dismissive      | To try to make the opinion they are showing look stupid, to make people less likely to agree with it. |
 
 ##### Example:
 *So why, after a decade of phone-in rows, vote-rigging accusation and celebrity hungry wannabes with bloated egos, does the British public remain so in love with reality TV?*
@@ -147,6 +147,6 @@ For these questions, the wording might include:
 
 (Related: [[National 5 RUAE Cheat Sheet]] and the Higher [[RUAE/Notes/Word Choice|Word Choice]]/[[RUAE/Notes/Imagery|Imagery]] notes.)
 
-[^1]: Mostly based off https://savemyexams.com n5 english notes
+[^1]: Mostly based on https://savemyexams.com n5 english notes
 
 ---

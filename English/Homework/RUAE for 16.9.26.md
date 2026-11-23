@@ -6,7 +6,7 @@
   The **writer** uses this simile, and the personification of "loomed", to make the tree feel like it is watching over the whole garden in an almost threatening way.
 - "like God's arm on the ceiling of the Sistine Chapel in Rome"
   Just as God's arm reaches down to Adam on the roof of the Sistine Chapel, **so** the **writer** **feels** that the tree is reaching down towards them from the heavens.
-  This shows how the **writer** feels that trees are God-like beings, and feels **reprehensible** about having it cut down, as they feel that trees are greater and more powerful than us mortals.
+  This shows how the **writer** feels that trees are God-like beings, and feels **remorseful** about having it cut down, as they feel that trees are greater and more powerful than us mortals.
 
 (These are [[RUAE/Notes/Imagery|similes and personification]].)
 ---
