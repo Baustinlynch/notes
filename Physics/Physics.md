@@ -34,12 +34,12 @@
 - [[Interference]]
 - [[Irradiance]]
 - [[Irradiance and Distance]]
-- [[Scalars and Vectors/Resolving vectors|Resolving vectors]]
-- [[Scalars and Vectors/Scalars and Vectors|Scalars and Vectors]]
-- [[Circuits/Transistors|Transistors]]
-- [[Nuclear/Fission and Fusion|Fission and Fusion]]
-- [[Nuclear/Radiation|Radiation]]
-- [[Nuclear/Half-Life|Half-Life]]
+- [[Scalars and Vectors/Resolving vectors]]
+- [[Scalars and Vectors/Scalars and Vectors]]
+- [[Circuits/Transistors]]
+- [[Nuclear/Fission and Fusion]]
+- [[Nuclear/Radiation]]
+- [[Nuclear/Half-Life]]
 
 ---
 *Converted from Excalidraw canvas*

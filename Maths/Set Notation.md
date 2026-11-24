@@ -14,7 +14,7 @@ $\mathbb{W}$ = Whole; {0,1,2,3,...}
 $\mathbb{Z}$ = Integers; {...,-3,-2,-1,0,1,2,3,...}
 $\mathbb{Q}$ = Rational numbers can be written as a fraction using integers/$\mathbb{Z}$
 $\mathbb{R}$ = Real numbers are all numbers including irrational numbers e.g. $\sqrt2, \pi,...$
-$\mathbb{C}$ = Complex numbers; these are not used at higher but they have no real answer e.g; $x^2=-2$
+$\mathbb{C}$ = Complex numbers; these are not used at higher but they have no real answer e.g; <u>$x^2=-2$</u>
 
 --- 
 A set can be decribed in different ways, e.g;

@@ -5,11 +5,11 @@
    $x^3+x^2=(x-1)(x^2+2x-3)$
    $=(x-1)(x-1)(x+3)$
    $=(x-1)^2(x+3)$
-   Roots: $x=1$, $x=-3$
+   Roots: $x=1$, <u>$x=-3$</u>
    (1,0), (-3,0)
    
    **Find y-intercept**
-   $y=0^3+0^2-50$
+   <u>$y=0^3+0^2-50$</u>
    
    **Find natures of stationary points**
    $f'(x)=3x^2+2x-5$

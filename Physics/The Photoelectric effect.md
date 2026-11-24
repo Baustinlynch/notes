@@ -1,4 +1,4 @@
-![[Drawing 2026-11-17 12.09.28.excalidraw]]
+![[Drawing 2026-11-17 12.09.28.excalidraw|446]]
 The leaf falls if it is illuminated with UV light. This causes the metal plate to eject electrons (negative charges). The greater the irradiance of the light, the more electrons would be emitted.
 White light will **not** cause this effect, no matter how intense it is. This would work for other metals; zinc is used as it is convenient.
 
@@ -23,10 +23,18 @@ $$hf=hf_0+E_k$$
 $$\text{energy of incident photons}=hf_0+E_k$$
 
 ## Example
-1. Light of $\lambda=2\times 10^{-7}\ \text{m}$ hits an aluminium surface. It is found that $6.7\times 10^{-19}\ \text{J}$ is the work function of aluminium. Find the maximum kinetic energy of the emitted electrons.
+1. Light of $\lambda=2\times 10^{-7}\ \text{m}$ hits an aluminium surface. It is found that $6.7\times 10^{-19}\ \text{J}$ is required to eject electrons.
+   A)Find the energy of the incident photons
    $f = \frac{c}{\lambda} = \frac{3\times10^8}{2\times10^{-7}} = 1.5\times10^{15}\ \text{Hz}$
    $E = hf = 6.63\times10^{-34} \times 1.5\times10^{15} = 9.95\times10^{-19}\ \text{J}$
-   $E_k = hf - W_0 = 9.95\times10^{-19} - 6.7\times10^{-19} = 3.25\times10^{-19}\ \text{J}$
+   B) Find the maximum kinetic energy of the emitted electrons.
+   $E_{\text{incident}}=\text{work function}+E_{k}$
+   $9.95\times 10^{-19}=6.72\times 10^{-19}+E_{k}$
+   $E_{k}=3.225\times{10}^{-19}$
+   $\to \text{can then work out their velocity}$
+   $E_{k}=\frac{1}{2}mv^2$
+   $3.225\times{10}^{-19}= \frac{1}{2}\times{9}.11\times 10^{-31}\times v^2$
+
 
 ---
 - **Subject map:** [[Physics|Physics]]

@@ -1,7 +1,9 @@
-[[Data Types and structures]]
-[[Assignment, Concatenation & Sequence Constructs]]
-[[Selection and conditional constructs]]
+# SDD Implementation
 
+## Topics
+- [[SDD/Implementation/Data Types and structures]]
+- [[SDD/Implementation/Assignment, Concatenation & Sequence Constructs]]
+- [[SDD/Implementation/Selection and conditional constructs]]
 
 ---
 - **Subject map:** [[Computing|Computing]]

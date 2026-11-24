@@ -17,7 +17,7 @@ To check the nature of a stationary point (SP) we investigate the signs of $f'(x
    $$8x^3-64=0 \to 8(x^3-8)=0 \to x^3=8 \to x=2$$
    Y-coordinate:
    $$f(2)=2(2)^4-64(2)+3 = 32-128+3 = -93$$
-   S.P at $(2,-93)$
+   S.P at <u>$(2,-93)$</u>
    
    Nature Table:
    ![[Nature Table.excalidraw|501]]
@@ -25,9 +25,9 @@ To check the nature of a stationary point (SP) we investigate the signs of $f'(x
 2. Find the **Stationary points** of $y=x^3-12x$ and determine their nature.
    $$\frac{dy}{dx}=3x^2-12=0 \to 3(x^2-4)=0 \to x=2 \text{ or } x=-2$$
    
-   For $x=2$: $y=8-24=-16$ → $(2,-16)$
+   For $x=2$: $y=8-24=-16$ → <u>$(2,-16)$</u>
    
-   For $x=-2$: $y=-8+24=16$ → $(-2,16)$
+   For $x=-2$: $y=-8+24=16$ → <u>$(-2,16)$</u>
    
    ![[Nature table example 2.excalidraw|308]]
 

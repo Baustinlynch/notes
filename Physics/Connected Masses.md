@@ -15,7 +15,7 @@ There is a frictional force of $2,000\ \text{N}$ on each carriage.
 $F=ma$
 $72,000=53,000\times a$
 $a=\frac{72,000}{53,000}$
-$a=1.36\ \text{ms}^{-2}$
+<u>$a=1.36\ \text{ms}^{-2}$</u>
 
 %% col-break:b:secondary %%
 
@@ -38,7 +38,7 @@ $F=ma$
 $F=18,000\times1.36$
 $F=24,480\ \text{N}$
 $F_{\text{total}}=24,480+4,000$
-$F_{\text{total}}=28,480\ \text{N}$
+<u>$F_{\text{total}}=28,480\ \text{N}$</u>
 
 %% col-break:b:secondary %%
 
@@ -68,7 +68,7 @@ When the thread is cut, $T$ in spring is still $78.4\ \text{N}$ **but** there is
 $F_{\text{un}}=ma$
 $19.6=6a$
 $a=\frac{19.6}{6}$
-$a=3.27\ \text{ms}^{-2}$
+<u>$a=3.27\ \text{ms}^{-2}$</u>
 
 ---
 

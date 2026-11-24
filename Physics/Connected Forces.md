@@ -12,7 +12,7 @@ We use the same technique that we used in [[Projectiles]].
    $F=8,660\times2$
    $F=17,320\ \text{N}$
 2) Steady speed = Balanced forces
-   Resistive forces = $F=17,320\ \text{N}$
+   Resistive forces = <u>$F=17,320\ \text{N}$</u>
 
 
 ---

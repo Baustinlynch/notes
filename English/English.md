@@ -22,6 +22,18 @@
 - [[Set Text/Andrina/Theme]]
 - [[Set Text/Death in a nut/Plot]]
 - [[Set Text/Death in a nut/Theme]]
+- [[Set Text/Things my wife and i found hidden in our house/Plot]]
+- [[Set Text/Things my wife and i found hidden in our house/Theme]]
+- [[Set Text/Things my wife and i found hidden in our house/Symbolism]]
+- [[Critical Essay - The Crucible/Notes]]
+- [[Critical Essay - The Crucible/Character]]
+- [[Critical Essay - The Crucible/Allegorical nature of The Crucible]]
+- [[Critical Essay - The Crucible/Accusations]]
+- [[Critical Essay - The Crucible/The psychology of hysteria]]
+- [[English/Homework/Week Beginning the 17th]]
+- [[English/Homework/HW for 1.10.26]]
+- [[English/Homework/RUAE homework for 9.9.26]]
+- [[English/Homework/RUAE for 16.9.26]]
 
 ---
 *Converted from Excalidraw canvas*

@@ -1,3 +1,0 @@
-- Tituba accused Goody Good (Sarah Good)
-- Abigail accuses Bridget bishop
-- Betty accues 

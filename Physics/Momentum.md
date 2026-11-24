@@ -32,7 +32,7 @@ $= 6v$
 $= 6v$
 
 %% col-end %%
-$$v = \frac{10}{6} = 1.67\ \text{m/s}$$
+$$<u>v = \frac{10}{6} = 1.67\ \text{m/s}</u>$$
 
 2. One ball "$a$" collides with a larger stationary ball "$b$".
    $b$ moves forward, $a$ rebounds.
@@ -43,7 +43,7 @@ $$m_a u_a + m_b u_b = m_a v_a + m_b v_b$$
 $$0.2 \times 6 + 0.5 \times 0 = 0.2 \times v_a + 0.5 \times 5$$
 $$1.2 = 0.2 v_a + 2.5$$
 $$-1.3 = 0.2 v_a$$
-$$v_a = \frac{-1.3}{0.2} = -6.5\ \text{m/s}$$
+$$<u>v_a = \frac{-1.3}{0.2} = -6.5\ \text{m/s}</u>$$
 (The negative sign indicates ball $a$ rebounds in the opposite direction.)
 
 ---

@@ -1,14 +1,13 @@
- In all collisions the momentum and **total** energy is conserved. Often **there** will be a loss of $E_{k}$. (The same conservation of momentum principle is covered in [[Momentum]].)
-<p align="center">Elastic collision --> **$E_{k}$ is conserved</p> 
+In all collisions the momentum and **total** energy is conserved. Often **there** will be a loss of $E_{k}$. (The same conservation of momentum principle is covered in [[Momentum]].)
 
 ## Example 
-Is this collision   elastic?
+Is this collision elastic?
 ![[Elastic collisions diagram.excalidraw]]
-$$m_{a}u_{a}+m_{b}u_{b}=m_{a}v_{a}+m_{b}+v_{b}$$
+$$m_{a}u_{a}+m_{b}u_{b}=m_{a}v_{a}+m_{b}v_{b}$$
 $$0.1\times 1+0.025\times 0=0.1\times V+0.025\times 1.6$$
 $$0.1=0.04+0.1\times V$$
 $$0.06=0.1\times V$$
-$$V=\frac{0.06}{0.1}= 0.6ms^{-1}$$
+$$V=\frac{0.06}{0.1}= 0.6\,\text{ms}^{-1}$$
 
 %% col-start %%
 

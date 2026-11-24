@@ -26,7 +26,7 @@
 	   $(x-3)(x-3)=0$
 	   $\therefore x=3$
 	   $y=2(3)-9=-3$
-	   Point of contact is $(3,-3)$
+	   Point of contact is <u>$(3,-3)$</u>
 
 3. Find the equations of the tangent from (0,-1) to $y=x^2-4x+3$.
    All lines that pass through (0,-1) are of the form $y=mx-1$.
@@ -41,7 +41,7 @@
    $m(m+8)$
    **Equations:**
    $m=0$
-   $y=-1$
+   <u>$y=-1$</u>
    
    $m=-8$
    y=-8x-1$
