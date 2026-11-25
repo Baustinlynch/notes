@@ -1,4 +1,3 @@
 1. 'And isn't that sweet? Isn't it just too perfectly sweet, like it's a message of hope left for me and Alice, a blessing for our life together?'
    This quote is used as clear foreshadowing; it makes the reader assume that the ring is not sweet, not caring, and that they must not have much hope further through the story.
 2. "Look, Al!' I held out my hand, queen-like. 'Isn't this pretty? Your gran must have left it.' She peered at it. 'Is it plastic? It looks like it came out of a vending machine. Throw it away, there's enough junk in this house already.' 'It's sea-glass. I found it in the kitchen. Do you think it's a good-luck charm from your gran? To wish us well?' Alice threw the musty duvets into the hall. 'Trust me, Rain. My gran didn't wish anybody well.' Throughout this piece of text, the **writer** creates tension through contrast by alternating the speaker in each sentence, as they have opposite opinions, building tension as the text continues.
-3.

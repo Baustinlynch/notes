@@ -5,7 +5,7 @@
 
 ---
 
-There are 2 types of transistor, NPN and MOSFET
+There are 2 types of transistor, NPN and MOSFET.
 ![[vermeil-IEC-NPN-Transistor-Symbol-alternate.svg]]
 
 ---

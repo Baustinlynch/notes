@@ -10,7 +10,7 @@
 1. Martha Corey and Rebecca Nurse are being interrogated in court. Giles interrupts and presents evidence claiming they're innocent based on reputation.
 2. Mary Warren confesses they were all pretending to see spirits. Danforth and Hathorne struggle to accept this.
 3. Elizabeth Proctor announces she is pregnant.
-4. Giles gets arrested after refusing to name the
+4. Giles gets arrested after refusing to name the source of his information.
 
 ## Act 4
 **At the start of Act 4**

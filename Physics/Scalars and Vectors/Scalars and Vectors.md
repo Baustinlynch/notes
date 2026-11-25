@@ -1,8 +1,8 @@
 
-**Scalar** quantity is a value that can be defined with only its **magnitude** (size)
+**Scalar** quantity is a value that can be defined with only its **magnitude** (size).
 ↳ E.g. distance, speed, time
 
-**Vector** quantity is a value that has to be defined with the **magnitude and direction**
+**Vector** quantity is a value that has to be defined with the **magnitude and direction**.
 ↳ E.g. displacement, velocity, forces
 
 | Scalar   | Vector       |

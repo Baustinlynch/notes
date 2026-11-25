@@ -2,6 +2,10 @@
 **/Scrap/
 **/Scrap/**
 
+# Ignore Archive folder (archived/old notes)
+**/Archive/
+**/Archive/**
+
 # Ignore sync conflict files
 *.sync-conflict-*
 

@@ -1,4 +1,4 @@
-## Bill torvald
+## Bill Torvald
 %% col-start %%
 
 %% col-break:29,stk:1,b:secondary %%
@@ -18,21 +18,22 @@
 **Notes**
 
 **Key traits**
-- Elderly, Isolated, reflective
+- Elderly, isolated, reflective
 - Honest but flawed
 - Avoids expressing emotions
 - Haunted by past choices
 - Bill is the **narrative** voice in the story.
-	- It is a third person **narration**,
-	- but **focused** on the perspective of Bill for most of the text
-	- His narration can be unreliable at times, such as when he has the flu, and when he is **imagining**
+  - It is a third person **narration**,
+  - But **focused** on the perspective of Bill for most of the text.
+  - His narration can be unreliable at times, such as when he has the flu, and when he is **imagining**.
+
 #### Quotes
-- ==""==
--
+- ===""==
+- 
 
 %% col-end %%
-Bill is the **narrative** voice in the story, it is a third person **narration**, but focused on the perspective of Bill for most of the text. His narration can be unreliable at times, he had the flu, and he imagined Andrina, but to the reader, the description was real. He makes use of **self-deprecating** humor. Throughout the text 
-(Both he and [[Voice spoke/Character and Narrator|the narrator in A Voice Spoke to Me in the Night]] are lonely, isolated figures whose narration shapes the story.) 
+Bill is the **narrative** voice in the story; it is a third person **narration**, but focused on the perspective of Bill for most of the text. His narration can be unreliable at times — he had the flu, and he imagined Andrina, but to the reader, the description was real. He makes use of **self-deprecating** humour throughout the text.
+(Both he and [[Voice spoke/Character and Narrator|the narrator in A Voice Spoke to Me in the Night]] are lonely, isolated figures whose narration shapes the story.)
 
 ## Andrina
 %% col-start %%
@@ -56,12 +57,9 @@ Bill is the **narrative** voice in the story, it is a third person **narration**
 Main lecture or reading notes go here.
 
 %% col-end %%
-
-Pacient and caring, thinks about and cares for bill. 
-
-No-one knows her
-She starts to 
-
+Patient and caring, thinks about and cares for Bill.
+No-one knows her.
+She starts to...
 
 ### Sigrid
 %% col-start %%
@@ -83,14 +81,13 @@ She starts to
 **Notes**
 ##### **Key traits**
 - Forgiving
-	- She didn't tell Andrina that her grandfather abandoned her
+  - She didn't tell Andrina that her grandfather abandoned her
 - Kind
 - Dignified
 
-
 %% col-end %%
-Kind, forgiving, **dignified**
-**rewrote** the past gently
+Kind, forgiving, **dignified**.
+**Rewrote** the past gently.
 
 ## Character relationships
 ```mermaid

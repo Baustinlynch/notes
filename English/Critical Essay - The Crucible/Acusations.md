@@ -1,0 +1,7 @@
+- Tituba accused Goody Good (Sarah Good)
+- Abigail accuses Bridget bishop
+- Betty accues 
+- John Proctor is accused by mary warren, is imprisoned and hung
+- Elizabeth Proctor is accused by abigail, and imprisoned but not hung because she is pregnat
+- Rebecca nurse was hung for not confessing
+- Tituba was not hung because she confessed, but was inprisoned and went crazy

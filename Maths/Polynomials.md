@@ -7,7 +7,7 @@ The **root** of a polynomial function is the value of the variable that makes th
 
 ## Polynomial division
 #### Grid Method
-1. Write two expressions for the area of the rectangle by first filling in the boxes with the equation, then filling the parts on the sides to 
+1. Write two expressions for the area of the rectangle by first filling in the boxes with the equation, then filling the parts on the sides to complete the grid. 
    ![[Drawing 2026-10-09 09.11.26.excalidraw]]
 2. Write the second expressions for the area of each of these rectangles.
    ![[Drawing 2026-10-09 09.16.36.excalidraw]]

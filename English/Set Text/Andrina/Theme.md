@@ -18,7 +18,7 @@
 **Notes**
 
 - Bill's selective memory
-- Sigid's more reliable retelling from the letter
+- Sigrid's more reliable retelling from the letter
 - **Quote:**=="The key dropped deep in the Atlantic"==
 
 %% col-end %%

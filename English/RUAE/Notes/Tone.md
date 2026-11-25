@@ -7,7 +7,7 @@ Don't put down a list and hope that one of them is right — you won't get any m
 Remember to **identify** and **justify**.
 
 1. **Identify** the tone
-2. 
+2. **Justify** with evidence from the text
 
 ##### Techniques which aid tone
 Word choice, Imagery, Sound (alliteration, assonance, sibilance, repetition, rhythm)
