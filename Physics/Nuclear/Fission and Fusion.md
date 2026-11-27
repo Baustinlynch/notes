@@ -1,5 +1,5 @@
 Fission is the splitting of a large nuclei into two small nuclei and energy. Fission is what is used in Nuclear reactors.
-Fusion is the joining of two small nuclei to one large nuclei and energy. **Fission** is what was used on Hiroshima.
+Fusion is the joining of two small nuclei to one large nuclei and energy. **The atomic bomb dropped on Hiroshima used nuclear fission**.
 (The radioactive products link to [[Half-Life]] and [[Radiation]].)
 
 ![682](https://cdn.hackclub.com/019cc30d-bb85-723b-bf1c-fffdf85976ac/IMG_0588.jpeg)
@@ -11,10 +11,10 @@ Energy is released from nuclear fuel in the reactor by a process know as a **cha
 ### Advantages of nuclear reactors 
 - Negligible amounts of $\ce{CO2}$ is released
 - 1 kg of of Uranium releases 5TJ of energy (1kg of coal releases 28MJ)
-- Uranium is hard to get
 
 ### Disadvantages of nuclear reactors
 - Non-Renewable
+- Uranium is hard to get / limited supply
 - Radioactive waste needs to be stored for thousands of years before it is safe (very expensive)
 ---
 - **Subject map:** [[Physics|Physics]]

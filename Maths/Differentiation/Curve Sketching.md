@@ -15,7 +15,7 @@ tags: [sub-note, differentiation]
    - look at behaviour of $f(x)$ as $x\to \pm \infty$
 
 ### Example
-Sketch <u>$y=3x^2-x^3$</u>
+Sketch $\underline{y=3x^2-x^3}$
 ![[Curve Sketching diagram.excalidraw]]
 
 ---

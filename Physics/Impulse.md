@@ -4,7 +4,7 @@ This can also be written as $F=\frac{mv-mu}t$,$F=\frac{\text{final momentum}-\te
 The 'change in momentum' is known as the **impulse**.
 $$\text{impulse}=\text{change in momentum}=Ft=\Delta mv$$
 (This builds on the idea of [[Momentum|momentum]].)
-The units for impulse are $kgms^{-1}$(kilogram meters per second) or $Ns$ (Newton seconds)
+The units for impulse are $kgms^{-1}$(kilogram metres per second) or $Ns$ (Newton seconds)
 When a collision occurs, the impact force is not constant throughout; the graph of the impact force resembles a bell curve. The impulse is equal to the area under the $Ft$ graph.
 #### Example:
 A pool cue **hits** a ball of mass $0.2kg$ which is at rest. It moves off at $3ms^{-1}$. The contact time is 0.015s. Find the average force.

@@ -15,7 +15,7 @@ $G$ is the universal gravitational constant (on data sheet). This formula works 
    $G=6.67\times 10^{-11}\ \text{m}^3\ \text{kg}^{-1}\ \text{s}^{-2}$
    $$F=G\frac{m_{1}m_{2}}{r^2}$$
    $$F=6.67\times 10^{-11}\times \frac{7.3\times10^{22}\times 6\times 10^{24}}{(3.84\times 10^8)^2}$$
-   $$<u>F=1.98\times 10^{20}\ \text{N}</u>$$
+   $$\underline{F=1.98\times 10^{20}\ \text{N}}$$
 
 ---
 - **Subject map:** [[Physics|Physics]]

@@ -40,7 +40,7 @@ $$Equivalent~Dose~rate~per~second,measured~in~Svs^{-1}=\frac{Equivalent~Dose~in~
 A research worker receives 500$\mu Sv$ of radiation over 2 hours.
 Calculate the equivalent dose rate for their experiment.
 $$\dot{H}=\frac{H}{t}$$
-$$\dot{H}=\frac{600X10^{-6}}{2}$$
+$$\dot{H}=\frac{500X10^{-6}}{2}$$
 $$\dot{H}=250X10^{-6}Svh^{-1}$$
 
 A research worker receives 20$\mu Sv$ of radiation over 4 hours.

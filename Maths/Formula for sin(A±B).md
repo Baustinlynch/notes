@@ -1,4 +1,4 @@
-$$\sin(A+B)=\sin A\cos B+\cos A\sin B$$
+ $$\sin(A+B)=\sin A\cos B+\cos A\sin B$$
 $$\sin(A-B)=\sin A\cos B-\cos A\sin B$$
 $$\text{for any angles A,B}$$
 ### Sin(A-B)

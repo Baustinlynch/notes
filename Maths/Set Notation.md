@@ -14,12 +14,12 @@ $\mathbb{W}$ = Whole; {0,1,2,3,...}
 $\mathbb{Z}$ = Integers; {...,-3,-2,-1,0,1,2,3,...}
 $\mathbb{Q}$ = Rational numbers can be written as a fraction using integers/$\mathbb{Z}$
 $\mathbb{R}$ = Real numbers are all numbers including irrational numbers e.g. $\sqrt2, \pi,...$
-$\mathbb{C}$ = Complex numbers; these are not used at higher but they have no real answer e.g; <u>$x^2=-2$</u>
+$\mathbb{C}$ = Complex numbers; these are not used at higher but they have no real answer e.g; $\underline{x^2=-2}$
 
 --- 
 A set can be decribed in different ways, e.g;
 
-P is the set of whole numbers beween 6 and 11 inclusive.
+P is the set of whole numbers between 6 and 11 inclusive.
 $$P=\{6,7,8,9,10,11\}$$
 $$P=\{x\in\mathbb{N};6\leq x\leq11\}$$
 

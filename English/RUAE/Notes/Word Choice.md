@@ -14,5 +14,6 @@ Onomatopoeia, alliteration, soft/harsh sounding
 3. **Discuss the effect of the word — make sure that your answer links to the question.**
 
 (Related technique notes: [[RUAE/Notes/Imagery|Imagery]], [[RUAE/Notes/Own words|Own words]].)
+
 ---
 - **Subject map:** [[English|English]]

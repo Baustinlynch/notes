@@ -5,8 +5,8 @@ tags: [sub-note, differentiation]
 # Differentiation - Basic Rules
 
 Differentiation has **2 descriptions:**
-1. The <u>derivative</u> $f'(x)$ gives the <u>gradient of the tangent</u> to $f(x)$ at the point $(x,f(x))$.
-2. The <u>derivative</u> $f'(x)$ gives the <u>rate of change</u> of the function $f(x)$ at the point $(x,f(x))$.
+1. The derivative $f'(x)$ gives the gradient of the tangent to $f(x)$ at the point $(x,f(x))$.
+2. The derivative $f'(x)$ gives the rate of change of the function $f(x)$ at the point $(x,f(x))$.
 
 ![[Differentiation diagram.excalidraw|316]]
 

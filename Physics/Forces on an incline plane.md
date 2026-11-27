@@ -19,12 +19,12 @@ The total mass is $90\ \text{kg}$ and it is being held $40\ \text{m}$ up a slope
 3. **The acceleration:**
    $F_{\text{un}}=ma$
    $223=90\times a$
-   <u>$a=2.48\ \text{m/s}^2$</u>
+   $\underline{a=2.48\ \text{m/s}^2}$
 
 4. **The speed at the bottom:**
    $v^2=u^2+2as$
    $v=\sqrt{0^2+2\times2.48\times40}$
-   <u>$v=14\ \text{m/s}$</u>
+   $\underline{v=14\ \text{m/s}}$
 
 ---
 - **Subject map:** [[Physics|Physics]]

@@ -25,7 +25,7 @@ $f^{-1}(x)=\log _ax$
 
 > [!NOTE] Important features
 > Logarithmic graphs always go through $(1,0)$
-> All log graphs pass through <u>$(a,1)$</u>where $a$ is the base
+> All log graphs pass through $\underline{(a,1)}$where $a$ is the base
  
 ```desmos-graph
 f(x)=\log _2 x

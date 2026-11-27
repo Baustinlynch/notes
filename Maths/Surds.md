@@ -5,7 +5,7 @@ Surds come up in lots of places; some examples are:
 The exact solutions of some equations e.g.
 $x^2+1=6$
 $x^2=5$
-<u>$x=\sqrt5$ or $x=-\sqrt5$</u>
+$\underline{x=\sqrt5}$ or $\underline{x=-\sqrt5}$
 
 The exact length of the hypotenuse e.g.
 $x^2=2^2+3^2$

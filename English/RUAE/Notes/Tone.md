@@ -7,7 +7,7 @@ Don't put down a list and hope that one of them is right — you won't get any m
 Remember to **identify** and **justify**.
 
 1. **Identify** the tone
-2. **Justify** with evidence from the text
+2. 
 
 ##### Techniques which aid tone
 Word choice, Imagery, Sound (alliteration, assonance, sibilance, repetition, rhythm)
@@ -45,5 +45,6 @@ Just as an altar is a place of religious importance where an innocent is sacrifi
 Joyous (Mocking)
 
 "Okay, we will send you a return label for you to send it back to us for a refund", it popped up in my email inbox. Yes! I thought, I couldn't have imagined a better way of this working out. I had been dreading the delivery of this stupid, expensive, useless ninja blender since I ordered it. And now I get to return the dysfunctional thing.
+
 ---
 - **Subject map:** [[English|English]]

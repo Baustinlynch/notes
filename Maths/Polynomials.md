@@ -26,7 +26,7 @@ If a polynomial is divided by $(x-a)$, then the remainder is $f(a)$.
 
 ### Examples:
 1. Find an expression for: 
-   <u>$(x^3+9x^2+26x+30)\div(x+3)$</u>
+   $\underline{(x^3+9x^2+26x+30)\div(x+3)}$
    ![[Drawing 2026-10-09 09.33.28.excalidraw]]
 
 ## Factor theorem
@@ -54,7 +54,7 @@ If $f(a)=0$ then $\color{blue}(x-a)\text{ is a factor of }f(x)$.
 ### Show that ... is a factor of ...
 To show that something (e.g. $(x+1)$) is a factor, solve using the **grid method** and state that the **remainder** is **equal to 0**.
 #### Examples:
-1. Show that <u>$(x+1)$</u> is a factor of $x^3+2x^2-5x-6$ and factorise fully
+1. Show that $\underline{(x+1)}$ is a factor of $x^3+2x^2-5x-6$ and factorise fully
    ![[Drawing 2026-10-21 15.07.05.excalidraw]]
    $\text{remainder}=0 \therefore (x+1) \text{ is a factor}$
 
@@ -70,7 +70,7 @@ To show that something (e.g. $(x+1)$) is a factor, solve using the **grid method
    $(x-3)(x^2-16)$
    $x=3$ or $x^2=16$
   $x=3$ or $x=\pm \sqrt{16}$
-  <u>$x=3$ or $x=\pm{4}$</u> 
+  $\underline{x=3}$ or $\underline{x=\pm{4}}$ 
 
 ## Finding missing Coefficients
 1. Find $k$ if $(x-3)$ is a factor of

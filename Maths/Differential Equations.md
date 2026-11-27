@@ -4,13 +4,14 @@ They can be solved to find an expression for $y$,$s$ etc.
 This can be done by **integrating**, for example:
 $$\frac{dx}{dy}=8x$$
 $$\int \frac{dy}{dx}dx=\int 8x~dx$$
-$$y=4x^2+c$$
+$$\underline{y=4x^2+c}$$
 ==🔴^^General equation^^==
 More information is needed to find the value of $c$.
-$$y=4x^2+c$$
+$$\underline{y=4x^2+c}$$
 e.g. if point $(3,5)$ lies on the curve then
 $$5=4(x)^2+c$$
-$$5=4(9)+c$$$$5=46+c$$
+$$5=4(9)+c$$
+$$5=36+c$$
 $$c=-31$$
 $$y=4x^2-31$$
 ==🔴^^Particular equation^^==

@@ -13,7 +13,7 @@ A rocket is travelling to the planet Zorg, which has a $g$ of $5\,\text{ms}^{-2}
 
 $F=ma$
 $25,000=25,000\times a$
-$a=1\,\text{ms}^{-2}$ 
+$\underline{a=1\,\text{ms}^{-2}}$ 
 
 %% col-break:b:secondary %%
 
