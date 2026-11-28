@@ -10,7 +10,7 @@ The story has a rising threat throughout;
 - **Horse** — burns Alice
 - **Pearls** — kelpie bridle
 - **Hair** — physical attack
-- **Liver** — evidence of kelpie feeding
+- **Jar** — evidence of kelpie feeding
 - **Knife** — silver weapon to kill kelpie
 - **More** — the hair, and suggesting that more threats are to come
 

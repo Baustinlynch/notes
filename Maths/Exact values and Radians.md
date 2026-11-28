@@ -12,7 +12,7 @@ Start with an isosceles triangle with two sides of length 1
 # Radians
 There is another way of measuring angles, radians.
 $$\text{degrees}\leftrightarrow \text{radians}$$
-$$\text{centimeters}\leftrightarrow\text{inches}$$
+$$\text{centimetres}\leftrightarrow\text{inches}$$
 "One radian is the angle **subtended** at the center of a circle by an arc of one length radius."
 
 ![[Radians **definition**.excalidraw|692]]

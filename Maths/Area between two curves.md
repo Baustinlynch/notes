@@ -1,6 +1,5 @@
- ![[Drawing 2026-11-27 08.59.59.excalidraw|623]]
-Shaded area:$\int^b_{a}\text{"top"}-\text{"bottom"}dx$
-$\int^{ab}_{a}(g(x)-f(x))dx$
+  ![[Drawing 2026-11-27 08.59.59.excalidraw|623]]
+Shaded area:
 1. The limits of the integral are the x-coordinates of the points of intersection (POI) of the curves
 2. A diagram is essential, you need to know which curve is on top
 ### Example:

@@ -1,5 +1,5 @@
-[[Exponential Function|Exponential Functions]] have the form:
-$$f(x)=a^x~~~~~~~~~x=\in\mathbb{R},a\in\mathbb{R},a>0$$
+[[Exponential Function|Exponential Functions]] have the form:
+$$f(x)=a^x~~~~~~~~~x \in\mathbb{R},a\in\mathbb{R},a>0$$
 This is an [[Exponential Function]] to base $a$.
 
 ### Graphing an exponential function

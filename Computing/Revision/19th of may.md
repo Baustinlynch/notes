@@ -8,7 +8,7 @@
 ```
 DECLARE password : STRING
 REPEAT	
-	RECIVE password FROM (STRING) KEYBOARD
+	RECEIVE password FROM (STRING) KEYBOARD
 	SET pswLength TO LENGTH (password)
 	IF pswLength != 5 
 	SEND TO DISPLAY (Check if your password is correct! (It must be characters))

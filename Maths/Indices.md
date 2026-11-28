@@ -1,6 +1,6 @@
 - **Subject map:** [[Maths|Maths]]
 
-The index of a number is also known as the power. For example, in $5^4$ the index is $4$. $5^4$ is the equivalent of $5\times 5\times 5\times 5\times 5$.
+The index of a number is also known as the power. For example, in $5^4$ the index is $4$. $5^4$ is the equivalent of $5\times 5\times 5\times 5$.
 (Indices are needed throughout the Higher course, e.g. to write functions in [[Differentiation|differentiable form]] and to describe [[Surds|surd]] roots.)
 
 ## Rules

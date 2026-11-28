@@ -35,7 +35,7 @@
 - [[Irradiance]]
 - [[Irradiance and Distance]]
 - [[Scalars and Vectors/Resolving vectors]]
-- [[Scalars and Vectors/Scalars and Vectors]]
+- [[Scalars and Vectors]]
 - [[Circuits/Transistors]]
 - [[Nuclear/Fission and Fusion]]
 - [[Nuclear/Radiation]]

@@ -23,7 +23,7 @@ i.e. no roots, no variables in denominators, no un-expanded brackets.
    $=\int(1-25x^{-2})dx$
    $\underline{=x-\frac{25}{-1}x^{-1}+c}$
    $=x+\frac{25}{x}+c$
-  
+
 ## Basic integration
 To integrate with respect to $x$:
 ![[Drawing 2026-11-18 13.56.11.excalidraw|520]]
@@ -63,5 +63,12 @@ $\underline{=\frac{x^4}{8}-6x^{\frac12}+6x+c}$
    $=(2(3)^2-3(3))-(2(-1)^2-3(-1))$
    $=(18-9)-(2+3)$
    $\underline{=4}$
+
+## Integrating $(ax+b)^n$
+$$\int(ax+b)^ndx=\frac{1}{a(n+1)}(ax+b)^{n+1}+c$$
+$n \neq -1$
+### Examples:
+1. $\int(5x+4)^3dx=\frac{1}{5\times{4}}(5x+4)^4+c$
+
 ---
 - **Subject map:** [[Maths|Maths]]

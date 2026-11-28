@@ -1,4 +1,4 @@
-An **inverse function**, $f{^-1}(x)$, exists if there is an one-to-one correspondence between the domain and the range of $f$.
+An **inverse function**, $f{^-1}(x)$, exists if there is a one-to-one correspondence between the domain and the range of $f$.
 If that is true, the **domain** of $f$ is equal to the **range** of $f{^-1}$ and **vice versa**
 (This builds on the idea of [[Set Notation|functions, domains and ranges]].)
 ### Example:
@@ -54,7 +54,7 @@ $f(3)=9$ (3,9)
 
 %% col-break:b:secondary,t:blue %%
 
-$f^{-1}(x)=3x$
+$f^{-1}(x)=x/3$
 $f^{-1}(1)=3$ (3,1)
 $f^{-1}(2)=6$ (6,2)
 $f^{-1}(3)=9$ (9,3)
